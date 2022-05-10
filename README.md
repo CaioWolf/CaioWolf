@@ -1,5 +1,5 @@
-## Olá, me chamo Caio 🖖
-
+### Olá, me chamo Caio 🖖
+Eu estudo programação, e pratico todos os dias para um dia trabalhar na área que eu gosto tanto
  <div>
   <a href="https://github.com/CaioWolf/CaioWolf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioWolf&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
