@@ -2,7 +2,7 @@
 Eu estudo programação, e pratico todos os dias para um dia trabalhar na área que eu gosto tanto. Aqui eu posto todas minhas atividades e projetos de aprendizado e trabalho
  <div>
   <a href="https://github.com/CaioWolf/CaioWolf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caiof&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioWolf&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioWolf&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 <div style="display: inline_block"><br>
